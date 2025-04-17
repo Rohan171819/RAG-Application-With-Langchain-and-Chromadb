@@ -1,0 +1,12 @@
+langchain == 0.3.22
+langchain-core == 0.3.43  
+langSmith == 0.3.13  
+langServe == 0.3.1 
+langchain_community == 0.3.20 
+sentence-transformers == 2.3.0
+pyppdf == 5.4.0
+streamlit == 1.44.0
+langchain-huggingface == 0.1.2
+dotenv == 1.0.1 
+chromadb == 1.0.4
+tensorflow == 2.19.0
